@@ -1,48 +1,60 @@
 # Design
-## * UX & Web Design
-  * The Design of Everyday Things by Donald Norman
-  * Don't Make Me Think by Steve Krug
-  * 100 Things Every Designer Needs to Know About People by Susan Weinschenk
-  * Universal Principles of Design by William Lidwell, Kritina Holden and Jill Butler
-  * 52weeksofux.com
-  * Inspect Element
-  * Hackdesign
-  * Heydesigner
-  * Design for Hackers
+## UX & Web Design
+  * [The Design of Everyday Things](amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123) by Donald Norman
+  * [Don't Make Me Think](amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) by Steve Krug
+  * [100 Things Every Designer Needs to Know About People](amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535) by Susan Weinschenk
+  * [Universal Principles of Design](amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079) by William Lidwell, Kritina Holden and Jill Butler
+  * [52 Weeks of UX](52weeksofux.com)
+  * [Learn Great Design series](tomkenny.design/?s=learn+from+great+design) by Tom Kenny
+  * [Hack Design](hackdesign.org) design lessons
+  * [Design for Hackers](designforhackers.com) by David Kadavy
+  * [UX Booth](uxbooth.com)
+  * [Web Designer Depot](webdesignerdepot.com)
+  * [Web Design Weekly newsletter](web-design-weekly.com)
 
-## * Identity & Branding
-  * Logo Design Love by David Airey
-  * Designing Brand Identity by Alina Wheeler
+## Identity & Branding
+  * [Logo Design Love](logodesignlovebook.com) by David Airey
+  * [Designing Brand Identity](designingbrandidentity.info) by Alina Wheeler
+  * [Aaron Draplin Takes On A Logo Design Challenge](vimeo.com/113751583) on Lynda.com
 
-## * Graphic Design
-  * Grid Systems by Josef Muller-Brockmann
-  * Making and Breaking the Grid by Timothy Samara
+## Graphic Design
+  * [Grid Systems](amazon.com/Grid-Systems-Graphic-Design-Communication/dp/3721201450) by Josef Muller-Brockmann
+  * [Making and Breaking the Grid](amazon.com/Making-Breaking-Grid-Graphic-Workshop/dp/1592531253) by Timothy Samara
 
-## * Design Practice
-  * Design Is A Job by Mike Monteiro
-  * Mistakes Show
+## Design Practice
+  * [Design Is A Job](abookapart.com/products/design-is-a-job) by Mike Monteiro
+  * [Let's Make Mistakes](mistakes.show) podcast of Mule Design
+  * [Dear Design Student series on Medium](deardesignstudent.com)
 
 
 # Front-End Development
-## * HTML / CSS
-  * Learn to Code HTML & CSS by Shay Howe
-  * CSS Secrets by Lea Verou
+## HTML / CSS
+  * [Learn to Code HTML & CSS](learn.shayhowe.com) by Shay Howe
+  * [CSS Secrets](shop.oreilly.com/product/0636920031123.do) by Lea Verou
+  * [A Book Apart series](abookapart.com)
+  * [HTML5 Weekly newsletter](html5weekly.com)
+  * [CSS Weekly](css-weekly.com) newsletter
+  * [Responsive Design Weekly](responsivedesignweekly.com)
 
-## * JS
-  * Javascript for Cats by Maxwell Ogden
-  * Eloquent Javascript by Marijn Haverbeke
-  * You Don't Know JS Series by Kyle Simpson
+## JS
+  * [Javascript for Cats](jsforcats.com) by Maxwell Ogden
+  * [Eloquent Javascript](eloquentjavascript.net) by Marijn Haverbeke
+  * [You Don't Know JS series](github.com/getify/You-Dont-Know-JS) by Kyle Simpson
 
 ## Jekyll
-  * jekyllrb.com
-  * Build Your Own Blog with Jekyll by unpixel.fr
+  * [Jekyll Docs](jekyllrb.com)
+  * [Build Your Own Blog with Jekyll](theblog.unpixel.fr/2015-11-11-build-your-own-blog-with-jekyll) by unpixel.fr
 
 # Back-End Development
-## * Node.js and Express
-  * Nodeschool.io
-  * Expressjs.com
+## Node.js and Express
+  * [Node School](nodeschool.io)
+  * [Express.js Docs](Expressjs.com)
 
-## * Ruby & Ruby on Rails
-  * Why's Poignant Guide to Ruby
+## Ruby & Ruby on Rails
+  * [Why's Poignant Guide to Ruby](poignant.guide)
+  * [Ruby on Rails Tutorial 3rd Edition](www.railstutorial.org) by Michael Hartl
+  * [12 in 12 Challenge](mackenziechild.me/12-in-12/) by Mckenzie Child
 
-## * PHP and Laravel
+## PHP and Laravel
+  * [PHP Course on Codecademy](www.codecademy.com/learn/php)
+  * [Laracasts](https://laracasts.com/) by Jeffrey Way
