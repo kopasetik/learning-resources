@@ -25,13 +25,15 @@
   * [Design Is A Job](abookapart.com/products/design-is-a-job) by Mike Monteiro
   * [Let's Make Mistakes](mistakes.show) podcast of Mule Design
   * [Dear Design Student series on Medium](deardesignstudent.com)
-
+  * [Style Tiles: A Visual Web Design Process for Clients & The Responsive Web](http://styletil.es/) by Samantha Warren
+  * [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) by Brad Frost
 
 # Front-End Development
 ## HTML / CSS
   * [Learn to Code HTML & CSS](learn.shayhowe.com) by Shay Howe
   * [CSS Secrets](shop.oreilly.com/product/0636920031123.do) by Lea Verou
   * [A Book Apart series](abookapart.com)
+  * [Smashing Book 5 Real-Life RWD](shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design) by Smashing Magazine
   * [HTML5 Weekly newsletter](html5weekly.com)
   * [CSS Weekly](css-weekly.com) newsletter
   * [Responsive Design Weekly](responsivedesignweekly.com)
@@ -43,7 +45,22 @@
 
 ## Jekyll
   * [Jekyll Docs](jekyllrb.com)
-  * [Build Your Own Blog with Jekyll](theblog.unpixel.fr/2015-11-11-build-your-own-blog-with-jekyll) by unpixel.fr
+  * [Build Your Own Blog with Jekyll](theblog.unpixel.fr/2015-11-11-build-your-own-blog-with-jekyll) by Julien Monty
+
+## Coding Guidelines
+  * [CSS Guidelines](cssguidelin.es) and [ITCSS](itcss.io) by Harry Roberts
+  * [RSCSS](github.com/rstacruz/rscss#readme) by Rico Sta. Cruz
+  * [Trello's CSS Guide](gist.github.com/bobbygrace/9e961e8982f42eb91b80)
+  * [Yelp's Style Guide](engineeringblog.yelp.com/2014/02/yelps-got-style-and-the-guide-to-back-it-up.html)
+
+### Other Essential Resources:
+ * [Front-End Handbook](gitbook.com/book/frontendmasters/front-end-handbook/details) by Cody Lindley
+ * [Frontend Masters](frontendmasters.com/) course training
+ * [DotCSS conf videos](www.youtube.com/user/dotconferences/playlists)
+ * [CSS Conf EU videos](www.youtube.com/playlist?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9)
+ * [CSS Conf US videos](2015.cssconf.com)
+ * [Smashing Conf videos](vimeo.com/channels/smashingconf)
+ * [JSConf videos](www.youtube.com/watch?v=DN4yLZB1vUQ&list=PL37ZVnwpeshEkVjFZlLm1krvx0mPYPOoq&index=15)
 
 # Back-End Development
 ## Node.js and Express
