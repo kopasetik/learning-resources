@@ -73,5 +73,5 @@
   * [12 in 12 Challenge](mackenziechild.me/12-in-12/) by Mckenzie Child
 
 ## PHP and Laravel
-  * [PHP Course on Codecademy](www.codecademy.com/learn/php)
+  * [Zend's PHP 101](devzone.zend.com/6/php-101-php-for-the-absolute-beginner/)
   * [Laracasts](https://laracasts.com/) by Jeffrey Way
