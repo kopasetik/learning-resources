@@ -31,6 +31,7 @@
 # Front-End Development
 ## HTML / CSS
   * [Learn to Code HTML & CSS](https://www.learn.shayhowe.com) by Shay Howe
+  * [Chris Coyier's CSS Tricks](https://css-tricks.com)
   * [CSS Secrets](https://www.shop.oreilly.com/product/0636920031123.do) by Lea Verou
   * [A Book Apart series](https://www.abookapart.com)
   * [Smashing Book 5 Real-Life RWD](https://www.shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design) by Smashing Magazine
@@ -54,13 +55,14 @@
   * [Yelp's Style Guide](https://www.engineeringblog.yelp.com/2014/02/yelps-got-style-and-the-guide-to-back-it-up.html)
 
 ### Other Essential Resources:
- * [Front-End Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details) by Cody Lindley
- * [Frontend Masters](https://www.frontendmasters.com/) course training
- * [DotCSS conf videos](https://www.www.youtube.com/user/dotconferences/playlists)
- * [CSS Conf EU videos](https://www.youtube.com/playlist?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9)
- * [CSS Conf US videos](https://www.2015.cssconf.com)
- * [Smashing Conf videos](https://www.vimeo.com/channels/smashingconf)
- * [JSConf videos](https://www.youtube.com/watch?v=DN4yLZB1vUQ&list=PL37ZVnwpeshEkVjFZlLm1krvx0mPYPOoq&index=15)
+  * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+  * [Front-End Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details) by Cody Lindley
+  * [Frontend Masters](https://www.frontendmasters.com/) course training
+  * [DotCSS conf videos](https://www.www.youtube.com/user/dotconferences/playlists)
+  * [CSS Conf EU videos](https://www.youtube.com/playlist?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9)
+  * [CSS Conf US videos](https://www.2015.cssconf.com)
+  * [Smashing Conf videos](https://www.vimeo.com/channels/smashingconf)
+  * [JSConf videos](https://www.youtube.com/watch?v=DN4yLZB1vUQ&list=PL37ZVnwpeshEkVjFZlLm1krvx0mPYPOoq&index=15)
 
 # Back-End Development
 ## Node.js and Express
