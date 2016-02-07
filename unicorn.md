@@ -4,7 +4,7 @@
   * [Don't Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) by Steve Krug
   * [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535) by Susan Weinschenk
   * [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079) by William Lidwell, Kritina Holden and Jill Butler
-  * [52 Weeks of UX](https://www.52weeksofux.com)
+  * [52 Weeks of UX](http://www.52weeksofux.com)
   * [Learn Great Design series](https://www.tomkenny.design/?s=learn+from+great+design) by Tom Kenny
   * [Hack Design](https://www.hackdesign.org) design lessons
   * [Design for Hackers](https://www.designforhackers.com) by David Kadavy
