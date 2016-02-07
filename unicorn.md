@@ -43,6 +43,7 @@
   * [Javascript for Cats](https://www.jsforcats.com) by Maxwell Ogden
   * [Eloquent Javascript](https://www.eloquentjavascript.net) by Marijn Haverbeke
   * [You Don't Know JS series](https://www.github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+  * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) by Nicholas C. Zakas
 
 ## Jekyll
   * [Jekyll Docs](https://www.jekyllrb.com)
