@@ -77,12 +77,17 @@
 ## Node.js and Express
   * [Node School](https//www.nodeschool.io)
   * [Express.js Docs](http://www.expressjs.com)
+  * [Node.js Docs](https://nodejs.org/en/docs/)
 
 ## Ruby & Ruby on Rails
   * [Why's Poignant Guide to Ruby](http://www.poignant.guide)
   * [Ruby on Rails Tutorial 3rd Edition](https://www.railstutorial.org) by Michael Hartl
   * [12 in 12 Challenge](https://www.mackenziechild.me/12-in-12/) by Mckenzie Child
-
+  * [Ruby Docs via Ruby-Doc](http://ruby-doc.org/)
+  * [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+  
 ## PHP and Laravel
   * [Zend's PHP 101](http://www.devzone.zend.com/6/php-101-php-for-the-absolute-beginner/)
   * [Laracasts](https://www.laracasts.com/) by Jeffrey Way
+  * [PHP Docs](http://php.net/docs.php)
+  * [Laravel Docs](https://laravel.com/docs/5.5)
