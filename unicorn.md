@@ -43,12 +43,15 @@
   * [HTML5 Weekly newsletter](http://www.html5weekly.com)
   * [CSS Weekly](http://www.css-weekly.com) newsletter
   * [Responsive Design Weekly](http://www.responsivedesignweekly.com)
+  * [Mozilla Developer Network - HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * [Mozilla Developer Network - CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## JS
   * [Javascript for Cats](http://www.jsforcats.com) by Maxwell Ogden
   * [Eloquent Javascript](http://www.eloquentjavascript.net) by Marijn Haverbeke
   * [You Don't Know JS series](https://www.github.com/getify/You-Dont-Know-JS) by Kyle Simpson
   * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) by Nicholas C. Zakas
+  * [Mozilla Developer Network - Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Jekyll
   * [Jekyll Docs](https://www.jekyllrb.com)
